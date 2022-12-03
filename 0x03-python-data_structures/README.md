@@ -1,1 +1,1 @@
-Read me file for python data structures
+Read me file
